@@ -1,0 +1,20 @@
+{
+  "templates": {
+    "vue-template": {
+      "url": "https://gitee.com/qy-tingyun/vue-admin-template",
+      "branch": "master"
+    },
+    "vue-emement-template": {
+      "url": "https://gitee.com/qy-tingyun/vue-admin-template",
+      "branch": "element-template"
+    },
+    "vue-antd-template": {
+      "url": "https://gitee.com/qy-tingyun/vue-admin-template",
+      "branch": "antd-template"
+    },
+    "vue-app": {
+      "https://gitee.com/domiv/iming-pro-template": "https://gitee.com/domiv/iming-pro-template",
+      "master": "master"
+    }
+  }
+}

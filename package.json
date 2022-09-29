@@ -1,0 +1,41 @@
+{
+  "name": "mm-cli",
+  "version": "1.0.3",
+  "description": "irm-cli脚手架",
+  "main": "/bin/cli.js",
+  "type": "module",
+  "bin": {
+    "mm": "bin/cli.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tongmingwang/irm-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "vue3",
+    "node"
+  ],
+  "author": "lizhiquan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tongmingwang/irm-cli/issues"
+  },
+  "homepage": "https://github.com/tongmingwang/irm-cli#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "child_process": "^1.0.2",
+    "clear": "^0.1.0",
+    "commander": "^9.4.0",
+    "handlebars": "^4.7.7",
+    "inquirer": "^9.1.2",
+    "ora": "^6.1.2",
+    "update-notifier": "^6.0.2"
+  }
+}
