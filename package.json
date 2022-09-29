@@ -1,6 +1,6 @@
 {
   "name": "mm-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "irm-cli脚手架",
   "main": "/bin/cli.js",
   "type": "module",
