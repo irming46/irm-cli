@@ -1,7 +1,7 @@
 {
-  "name": "mm-cli",
+  "name": "mm-web-cli",
   "version": "1.0.4",
-  "description": "irm-cli脚手架",
+  "description": "mm-web-cli脚手架",
   "main": "/bin/cli.js",
   "type": "module",
   "bin": {
@@ -22,7 +22,7 @@
     "vue3",
     "node"
   ],
-  "author": "lizhiquan",
+  "author": "wangtongming",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tongmingwang/irm-cli/issues"
